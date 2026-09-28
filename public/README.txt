@@ -1,0 +1,1 @@
+Put optional images and other public assets in this folder.
