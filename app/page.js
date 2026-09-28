@@ -247,7 +247,7 @@ export default function Home() {
             </div>
             <div className="github-box">
               <span>GITHUB</span>
-              {githubUrl ? (
+              {githubUrl? (
                 <a href={githubUrl} target="_blank" rel="noreferrer">View GitHub →</a>
               ) : (
                 <p>Create your GitHub profile and add the URL in <code>app/page.js</code>.</p>
