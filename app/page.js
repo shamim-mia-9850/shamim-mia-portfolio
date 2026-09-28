@@ -272,7 +272,7 @@ export default function Home() {
         </div>
       </section>
 
-      {skills_marker}
+      {skills_marke<section id="skills" className="section">
         <div className="container two-col skills-layout">
           <div>
             <p className="section-kicker">04 / SKILLS</p>
