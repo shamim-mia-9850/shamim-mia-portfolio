@@ -297,7 +297,7 @@ export default function Home() {
         </div>
       </section>
 
-      {marker}
+      {mar<section className="section">ker}
         <div className="container">
           <p className="section-kicker">05 / EDUCATION &amp; TRAINING</p>
           <h2 className="section-title">Education</h2>
