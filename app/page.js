@@ -50,7 +50,7 @@ const courses = [
 ];
 
 // Add your real GitHub profile URL here after creating your account.
-const githubUrl = "https://github.com/shamim_sm";
+const githubUrl = "https://github.com/shamim-mia-9850";
 
 const projects = [
   {
