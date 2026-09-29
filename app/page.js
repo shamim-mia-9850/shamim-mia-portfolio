@@ -103,11 +103,24 @@ const experience = [
 ];
 
 const education = [
-  ["Bachelor of Social Science (BSS) – Pass Course", "Netrokona Govt. College", "2022", "CGPA 2.67 / 4.00"],
-
-  ["Higher Secondary School Certificate (HSC) – Humanities", "Abu Abbas College", "2018", "GPA 3.25 / 5.00"],
-
-  ["Secondary School Certificate (SSC) – Humanities", "Mahmudpur High School", "2016", "GPA 3.78 / 5.00"],
+  [
+    "Bachelor of Social Science (BSS) – Pass Course",
+    "Netrokona Govt. College",
+    "2022",
+    "CGPA: 2.67 / 4.00"
+  ],
+  [
+    "Higher Secondary School Certificate (HSC) – Humanities",
+    "Abu Abbas College",
+    "2018",
+    "GPA: 3.25 / 5.00"
+  ],
+  [
+    "Secondary School Certificate (SSC) – Humanities",
+    "Mahmudpur High School",
+    "2016",
+    "GPA: 3.78 / 5.00"
+  ],
 ];
 
 function Icon({ name }) {
