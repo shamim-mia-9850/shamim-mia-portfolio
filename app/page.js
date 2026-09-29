@@ -312,7 +312,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section">
+     <section id="education" className="section">
         <div className="container">
           <p className="section-kicker">05 / EDUCATION &amp; TRAINING</p>
           <h2 className="section-title">Education</h2>
